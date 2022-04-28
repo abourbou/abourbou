@@ -20,9 +20,10 @@
  
 
  
-Let me introduce myself  :boy: 
+Let me introduce myself  🤓
 
-- 🔭 I’m currently working on [CP](https://en.wikipedia.org/wiki/Competitive_programming#:~:text=The%20aim%20of%20competitive%20programming,mathematical%20or%20logical%20in%20nature). Sometimes I try to work on some short personal projects of mine.
+- I learn to code in my prep school in science and I failed in love. I'm in 42Lyon since 2019
+- 🔭 I’m currently working on security project of my school
 - :art: <b>Hobby:</b> Attending in [CP](https://en.wikipedia.org/wiki/Competitive_programming#:~:text=The%20aim%20of%20competitive%20programming,mathematical%20or%20logical%20in%20nature), watching anime series, movies, English TV series and so on. I was a bookworm earlier even though I don't read that much nowadays. :disappointed: I love tech-related stuff whether it could be :iphone: or :computer: related stuff although I keep decent knowledge regarding :computer:  
 - :high_brightness: <b>Special quality:</b> <br>
         :beginner: Problem Solving <br>
@@ -35,7 +36,6 @@ Let me introduce myself  :boy:
  Technologies and Languages 
 </h2>
 
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 ![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)
@@ -54,21 +54,8 @@ Let me introduce myself  :boy:
 ![Microsoft word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![Microsoft](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)
 
-
-
-<h2 align="center">
-My Current Workstation Specification </h2>
-
-<div align="center">
-  
-![Laptop](https://img.shields.io/badge/Windows-ASUS-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
-<br>
-
-![CPU](https://img.shields.io/badge/Intel-Core_i3_4th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
- 
-  
-
-
-</div>
-
-Link template README : https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/IsratIJK.md
+\
+\
+\
+\
+<sup>[Link README template](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/IsratIJK.md)</sup>
