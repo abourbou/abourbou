@@ -22,9 +22,9 @@
  
 Let me introduce myself  🤓
 
-- I learn to code in my prep school in science and I fell in love with programming. I'm in 42Lyon since 2019
-- 🔭 I’m currently working on security project of my school
-- :art: <b>Hobby:</b> Gaming, watching movies, learning science 👨‍🔬 I was a bookworm earlier even though I don't read that much nowadays. :disappointed: 
+- I learn to code in my prep school in science and I fell in love with programming. I improve my programmation skills in 42Lyon school.
+- 🔭 I’m currently looking for a job
+- :art: <b>Hobby:</b> Gaming, cooking, running, learning science 👨‍🔬 I was a bookworm earlier even though I don't read that much nowadays. :disappointed: 
 - :high_brightness: <b>Special quality:</b> <br>
         :beginner: Problem Solving <br>
         :beginner: Tech Enthusiasts <br>
@@ -44,7 +44,6 @@ Let me introduce myself  🤓
 ![Shell](https://img.shields.io/badge/SHELL-B7472A?style=for-the-badge&logo=GNU-bash&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 ![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 \
